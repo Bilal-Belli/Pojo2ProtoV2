@@ -1,0 +1,14 @@
+.project
+
+.classpath
+
+/target
+
+/.settings
+
+/src/test
+
+/src/main/resources
+
+/src/main/java/fr/bl/pojo2proto/ClassRelationshipAnalyzer.java
+/src/main/java/fr/bl/pojo2proto/ClassRelationshipAnalyzerV2.java
